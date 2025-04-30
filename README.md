@@ -1,5 +1,4 @@
-# eng_software
-Atividade em dupla de engenharia de software
+# Engenharia de Software - Atividade em dupla
 
--- João Vitor da Costa RA:4362  
--- Giuseppe Ferri RA:4232
+- João Vitor da Costa RA:4362  
+- Giuseppe Ferri RA:4232
